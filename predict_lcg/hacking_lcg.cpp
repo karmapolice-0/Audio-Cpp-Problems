@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include "modinv.h"
+#include "include/inv.h"
 using namespace std;
 
 constexpr uint16_t mod_max = (1 << 16) - 1;

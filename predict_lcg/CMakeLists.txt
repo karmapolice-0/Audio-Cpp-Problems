@@ -5,7 +5,7 @@ project(Hack_LCG VERSION 1.0 LANGUAGES CXX)
 
 set(SOURCES
     hacking_lcg.cpp
-    modinv.cpp
+    inv.cpp
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES})

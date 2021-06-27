@@ -1,6 +1,6 @@
 #include <cassert>
 
-#include "modinv.h"
+#include "include/inv.h""
 
 uint16_t mod_inv(uint16_t a, uint16_t m)
 {
